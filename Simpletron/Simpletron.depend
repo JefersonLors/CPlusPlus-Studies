@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1644529117 source:c:\programação\c++\projetos c++\programas orientados à objetos\simpletron\simpletron_implementacao.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	"Simpletron_class.h"
+	<limits>
+
+1644529371 c:\programação\c++\projetos c++\programas orientados à objetos\simpletron\simpletron_class.h
+
+1644529528 source:c:\programação\c++\projetos c++\programas orientados à objetos\simpletron\simplestron_cliente.cpp
+	<iostream>
+	"Simpletron_class.h"
+
+1662558243 source:c:\programação\c++\projetos c++\programas orientados à objetos\outras atividades\simpletron\simplestron_cliente.cpp
+	<iostream>
+	<cstdlib>
+	"Simpletron_interface.h"
+
+1662560702 c:\programação\c++\projetos c++\programas orientados à objetos\outras atividades\simpletron\simpletron_class.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<cmath>
+	<limits>
+
+1662560702 source:c:\programação\c++\projetos c++\programas orientados à objetos\outras atividades\simpletron\simpletron_implementacao.cpp
+	"Simpletron_class.h"
+
+1662560701 source:c:\programação\c++\projetos c++\programas orientados à objetos\outras atividades\simpletron\simpletron_interface.cpp
+	"Simpletron_interface.h"
+	"Simpletron_class.h"
+
+1662560702 c:\programação\c++\projetos c++\programas orientados à objetos\outras atividades\simpletron\simpletron_interface.h
+
