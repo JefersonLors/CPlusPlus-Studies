@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1662670906 source:e:\documentos\programação\c++\projetos c++\programas orientados à objetos\atividades capítulo 8\arraybidimensional\main.cpp
+	<iostream>
+	<cstdlib>
+	"arrayBidimensionalClass.h"
+
+1662670966 e:\documentos\programação\c++\projetos c++\programas orientados à objetos\atividades capítulo 8\arraybidimensional\arraybidimensionalclass.h
+	<iostream>
+	<cstdlib>
+
+1662670906 source:e:\documentos\programação\c++\projetos c++\programas orientados à objetos\atividades capítulo 8\arraybidimensional\arraybidimensionalimplementation.cpp
+	"arrayBidimensionalClass.h"
+
